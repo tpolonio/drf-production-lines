@@ -1,1 +1,3 @@
 lines/__pycache__/
+lines/migrations/__pycache__/
+db.sqlite3
